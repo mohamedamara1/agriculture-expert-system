@@ -1,0 +1,217 @@
+[
+  {
+    "Plant": "Tomato",
+    "Climate": ["Tropical", "Subtropical", "Temperate"],
+    "Soil": ["Sandy", "Loamy", "Clayey", "Silt", "Peaty"],
+    "Sunlight": ["Full Sun", "Partial Sun", "Shade"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Summer"],
+    "Wind": ["Moderate"]
+  },
+  {
+    "Plant": "Basil",
+    "Climate": ["Tropical", "Subtropical", "Temperate"],
+    "Soil": ["Sandy", "Loamy", "Clayey", "Silt", "Peaty"],
+    "Sunlight": ["Full Sun", "Partial Sun", "Shade"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Summer"],
+    "Wind": ["Moderate"]
+  },
+  {
+    "Plant": "Carrot",
+    "Climate": ["Temperate"],
+    "Soil": ["Sandy", "Loamy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  },  {
+    "Plant": "Lettuce",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy"],
+    "Sunlight": ["Partial Sun", "Shade"],
+    "Water": ["High"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  },
+  {
+    "Plant": "Cucumber",
+    "Climate": ["Tropical", "Subtropical", "Temperate"],
+    "Soil": ["Sandy", "Loamy", "Clayey"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["High"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Summer"],
+    "Wind": ["Moderate"]
+  },
+  {
+    "Plant": "Bell Pepper",
+    "Climate": ["Tropical", "Subtropical", "Temperate"],
+    "Soil": ["Loamy", "Silt"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Summer"],
+    "Wind": ["Moderate"]
+  },
+
+  {
+    "Plant": "Spinach",
+    "Climate": ["Temperate"],
+    "Soil": ["Sandy", "Loamy"],
+    "Sunlight": ["Partial Sun", "Shade"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  },
+  {
+    "Plant": "Zucchini",
+    "Climate": ["Tropical", "Subtropical", "Temperate"],
+    "Soil": ["Loamy", "Clayey"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["High"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Summer"],
+    "Wind": ["Moderate"]
+  },
+  {
+    "Plant": "Onion",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy", "Sandy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  }, {
+    "Plant": "Broccoli",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy", "Sandy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Moderate"]
+  },
+  {
+    "Plant": "Cabbage",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  },
+  {
+    "Plant": "Potato",
+    "Climate": ["Temperate"],
+    "Soil": ["Sandy", "Loamy"],
+    "Sunlight": ["Full Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  }, {
+    "Plant": "Cauliflower",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy", "Sandy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Moderate"]
+  },
+  {
+    "Plant": "Peas",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  },
+  {
+    "Plant": "Radish",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy", "Sandy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  }, {
+    "Plant": "Kale",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  },
+  {
+    "Plant": "Eggplant",
+    "Climate": ["Tropical", "Subtropical", "Temperate"],
+    "Soil": ["Loamy", "Clayey"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Summer"],
+    "Wind": ["Moderate"]
+  },
+  {
+    "Plant": "Pumpkin",
+    "Climate": ["Tropical", "Subtropical", "Temperate"],
+    "Soil": ["Loamy", "Clayey"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["High"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Summer"],
+    "Wind": ["Moderate"]
+  },{
+    "Plant": "Cilantro",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy"],
+    "Sunlight": ["Full Sun", "Partial Sun", "Shade"],
+    "Water": ["Moderate"],
+    "PlantType": ["Herb"],
+    "Season": ["Spring", "Fall"],
+    "Wind": ["Low"]
+  },
+  {
+    "Plant": "Garlic",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy", "Sandy"],
+    "Sunlight": ["Full Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Fall"],
+    "Wind": ["Low"]
+  },
+  {
+    "Plant": "Asparagus",
+    "Climate": ["Temperate"],
+    "Soil": ["Loamy", "Sandy"],
+    "Sunlight": ["Full Sun", "Partial Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring"],
+    "Wind": ["Low"]
+  },  {
+    "Plant": "Sweet Potato",
+    "Climate": ["Tropical", "Subtropical", "Temperate"],
+    "Soil": ["Sandy", "Loamy"],
+    "Sunlight": ["Full Sun"],
+    "Water": ["Moderate"],
+    "PlantType": ["Vegetable"],
+    "Season": ["Spring", "Summer"],
+    "Wind": ["Moderate"]
+  }
+]

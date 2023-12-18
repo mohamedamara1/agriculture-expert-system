@@ -1,4 +1,4 @@
-#!/home/typicaluser/Desktop/9raya/ai/exemples_projet/myenv/bin/python
+#!/home/typicaluser/Desktop/9raya/ai/exemples_projet/agriculture-expert-system/myenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
