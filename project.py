@@ -33,3 +33,5 @@ user_input['sunlight'] = st.selectbox("Select Sunlight Exposure:", ['full_sun', 
 if st.button("Get Plant Suggestions"):
     recommended_plants = expert_system.suggest_plants(user_input)
     st.success(f"Recommended plants: {', '.join(recommended_plants)}")
+
+print("hello")
