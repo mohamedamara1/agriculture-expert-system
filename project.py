@@ -59,20 +59,10 @@ class PlantExpertSystem(KnowledgeEngine):
         yield Fact(action="findPlants")
 
 
-    @Rule(Fact(action="findPlants"))
-    def testRule(self):
-        print("im here")
-
-    @Rule(Fact('soil'))
-    def testSoil(self):
-        print("detected soil")
-
-
     @Rule(
-        AND(Fact(climate=W()), Fact(soil=W()), Fact(sunlight=W()), Fact(water=W()),
+        AND(Fact(action="findPlants"),Fact(climate=W()), Fact(soil=W()), Fact(sunlight=W()), Fact(water=W()),
             Fact(plant_type=W()), Fact(season=W()), Fact(wind=W())))
     def rule_find_suitable_plants(self):
-        print("im finding result")
         suitable_plants = []
         facts = self.facts
         climate = facts[2]['climate']
